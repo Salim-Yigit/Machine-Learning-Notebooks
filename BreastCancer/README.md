@@ -9,6 +9,10 @@ All variables are plotted,correlation matris(heat map) also is plotted.
 I used Accuracy,Recall,Precision,F1 Score,AUC as optimization metrics.  
 
 My metrics final values : 
+
+
+
+
 ![Metrics](https://user-images.githubusercontent.com/94362868/194913009-17ca5436-71be-46fc-9b94-5be501463d69.png)
 
 
