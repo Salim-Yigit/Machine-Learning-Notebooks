@@ -1,11 +1,11 @@
 # Breast Cancer Data Set
 
 I added data set as csv file to this folder.It is from Kaggle. 
-It is a classification problem and we must classify a tumor benign or malignant. 
-Notebook includes really important function that I have written. These functions had been written for future engineering. 
+It is a classification problem and we must classify if a tumor is benign or malignant. 
+Notebook includes really important function that I have written. These functions had been written for feature engineering. 
 If you want to check over notebook, you can understand my steps. 
 
-All variables are plotted,correlation matris(heat map) also is plotted.
+All variables are plotted,correlation matrix (heat map) also is plotted.
 I used Accuracy,Recall,Precision,F1 Score,AUC as optimization metrics.  
 
 My metrics final values : 
